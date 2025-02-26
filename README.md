@@ -15,11 +15,7 @@ I am a software developer passionate about technology and innovation. Always loo
     <img src="https://github.com/yourusername/project-name/raw/main/screenshot.png" width="400" alt="Project Screenshot">
     <h3>Project Name</h3>
   </a>
-  <p>A responsive website built with HTML, CSS, and JavaScript. Features include user authentication, responsive design, and API integration.</p>
-  <p>
-    <a href="https://github.com/yourusername/project-name"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat&logo=github" alt="View Code"></a>
-    <a href="https://project-demo-url.com"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=netlify" alt="Live Demo"></a>
-  </p>
+  <p>A responsive website built with HTML, CSS, Bootstrap, and JavaScript. Features include user authentication, responsive design.</p>
 </div>
 
 <br/>
@@ -29,11 +25,7 @@ I am a software developer passionate about technology and innovation. Always loo
     <img src="https://github.com/yourusername/another-project/raw/main/preview.png" width="400" alt="Project Screenshot">
     <h3>Another Project</h3>
   </a>
-  <p>A PHP-based web application with MySQL database integration. Includes user management, dashboard, and reporting features.</p>
-  <p>
-    <a href="https://github.com/yourusername/another-project"><img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat&logo=github" alt="View Code"></a>
-    <a href="https://another-project-demo.com"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=netlify" alt="Live Demo"></a>
-  </p>
+  <p>PHP based web application with MySQL database integration. Includes user management, dashboards, and product, customer, and transaction features.</p>
 </div>
 
 ## 🚀 Skills
