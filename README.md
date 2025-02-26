@@ -67,12 +67,6 @@ I am a passionate software developer with a keen interest in technology and inno
 
 </div>
 
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
 ---
 
 ⭐️ From [galpratma](https://github.com/galpratma)
