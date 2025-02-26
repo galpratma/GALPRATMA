@@ -11,7 +11,7 @@ I am a software developer passionate about technology and innovation. Always loo
 ## 🛠️ My Projects
 
 [![Project Card](https://github.com/galpratma/webbootstrap5)]
-[![Project Card](https://github.com/galpratma/another-project)]
+[![Project Card](https://github.com/galpratma/website-school-bootstrap5)]
 
 ## 🚀 Skills
 
@@ -30,4 +30,4 @@ I am a software developer passionate about technology and innovation. Always loo
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [yourusername](https://github.com/galpratma)
