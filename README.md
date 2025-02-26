@@ -14,11 +14,10 @@
 
 ## 💫 About Me
 
-> _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+> _"Code is like humor. When you have to explain it, it's bad."_ – Galih Pratama
 
 I am a passionate software developer with a keen interest in technology and innovation. Always looking for ways to enhance my skills and contribute to exciting projects that make a difference.
 
-- 🔭 I'm currently working on **[Your Current Project]**
 - 🌱 I'm currently learning **[New Technology/Framework]**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development and software engineering**
@@ -57,19 +56,7 @@ I am a passionate software developer with a keen interest in technology and inno
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galpratma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galpratma&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=galpratma&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=galpratma&repo=project2&theme=radical" />
-  </a>
 </div>
 
 ## ☕ Connect With Me
