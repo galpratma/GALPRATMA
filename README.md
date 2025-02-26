@@ -41,7 +41,4 @@ I am a software developer passionate about technology and innovation. Always loo
 
 ## ☕ Get in touch
 
-- Email: galpratma11@gmail.com
-- Portfolio: [yourusername.com](https://yourusername.com)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
+- Email: galpratma11@gmail.com - Portfolio: [yourusername.com](https://yourusername.com) - Twitter: [@yourusername](https://twitter.com/yourusername) - LinkedIn: [yourusername](https://linkedin.com/in/yourusername)
