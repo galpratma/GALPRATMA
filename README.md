@@ -5,8 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/galpratma?style=social)](https://github.com/galpratma)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galpratma/)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourusername.com/)](https://yourusername.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:galpratma11@gmail.com)
 
 </div>
 
@@ -18,7 +16,7 @@
 
 I am a passionate software developer with a keen interest in technology and innovation. Always looking for ways to enhance my skills and contribute to exciting projects that make a difference.
 
-- 🌱 I'm currently learning **[New Technology/Framework]**
+- 🌱 I'm currently learning **[Tailwind CSS]**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development and software engineering**
 
