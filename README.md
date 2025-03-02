@@ -14,7 +14,8 @@
 
 > _"Code is like humor. When you have to explain it, it's bad."_ – Galih Pratama
 
-I am a passionate software developer with a keen interest in technology and innovation. Always looking for ways to enhance my skills and contribute to exciting projects that make a difference.
+I am a passionate software developer with a keen interest in technology and innovation. 
+Always looking for ways to enhance my skills and contribute to exciting projects that make a difference.
 
 - 🌱 I'm currently learning **[Tailwind CSS]**
 - 👯 I'm looking to collaborate on **open source projects**
@@ -50,12 +51,6 @@ I am a passionate software developer with a keen interest in technology and inno
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 </details>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galpratma&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 ## ☕ Connect With Me
 
