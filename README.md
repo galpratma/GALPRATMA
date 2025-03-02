@@ -8,7 +8,7 @@
 
 </div>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 ## 💫 About Me
 
@@ -63,10 +63,10 @@ I am a passionate software developer with a keen interest in technology and inno
   
 | 📧 Email | 🌐 Portfolio | 🐦 Twitter | 💼 LinkedIn |
 |----------|--------------|------------|-------------|
-| [galpratma11@gmail.com](mailto:galpratma11@gmail.com) | [yourusername.com](https://yourusername.com) | [@yourusername](https://twitter.com/yourusername) | [Galih Pratama](https://linkedin.com/in/galpratma) |
+| [galpratma11@gmail.com](mailto:galpratma11@gmail.com) | [galpratma.github.io](https://yourusername.com) | [@yourusername](https://twitter.com/yourusername) | [Galih Pratama](https://linkedin.com/in/galpratma) |
 
 </div>
 
 ---
 
-⭐️ From [galpratma](https://github.com/galpratma)
+⭐️ From [Galih Pratama](https://github.com/galpratma)
