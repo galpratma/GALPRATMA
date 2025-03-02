@@ -14,7 +14,7 @@
 
 > _"Code is like humor. When you have to explain it, it's bad."_ – Galih Pratama
 
-I am a passionate software developer with a keen interest in technology and innovation. 
+I am a passionate software developer with a keen interest in technology and innovation.
 Always looking for ways to enhance my skills and contribute to exciting projects that make a difference.
 
 - 🌱 I'm currently learning **[Tailwind CSS]**
@@ -58,7 +58,7 @@ Always looking for ways to enhance my skills and contribute to exciting projects
   
 | 📧 Email | 🌐 Portfolio | 🐦 Twitter | 💼 LinkedIn |
 |----------|--------------|------------|-------------|
-| [galpratma11@gmail.com](mailto:galpratma11@gmail.com) | [galpratma.github.io](https://yourusername.com) | [@yourusername](https://twitter.com/yourusername) | [Galih Pratama](https://linkedin.com/in/galpratma) |
+| [galpratma11@gmail.com](mailto:galpratma11@gmail.com) | [Galih P.](https://galpratma.github.io/) | [@yourusername](https://twitter.com/yourusername) | [Galih Pratama](https://linkedin.com/in/galpratma) |
 
 </div>
 
