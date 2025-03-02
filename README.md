@@ -58,7 +58,7 @@ Always looking for ways to enhance my skills and contribute to exciting projects
   
 | 📧 Email | 🌐 Portfolio | 🐦 Twitter | 💼 LinkedIn |
 |----------|--------------|------------|-------------|
-| [galpratma11@gmail.com](mailto:galpratma11@gmail.com) | [Galih P.](https://galpratma.github.io/) | [@yourusername](https://twitter.com/yourusername) | [Galih Pratama](https://linkedin.com/in/galpratma) |
+| [galpratma11@gmail.com](mailto:galpratma11@gmail.com) | [Galih Pratama](https://galpratma.github.io/) | [@yourusername](https://twitter.com/yourusername) | [Galih Tama](https://linkedin.com/in/galpratma) |
 
 </div>
 
