@@ -4,7 +4,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/galpratma?style=social)](https://github.com/galpratma)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galpratma/)
-[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourusername.com/)](https://yourusername.com/)
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourusername.com/)](https://galpratma.github.io/)
 
 </div>
 
