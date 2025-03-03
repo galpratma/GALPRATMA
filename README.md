@@ -12,9 +12,9 @@
 
 ## 💫 About Me
 
-> _"Code is like humor. When you have to explain it, it's bad."_ – Galih Pratama
+> _"Code is like humor. When you have to explain it, it's bad."_ Galih Pratama
 
-I am a passionate software developer with a keen interest in technology and innovation.
+\_\_I am a passionate software developer with a keen interest in technology and innovation.
 Always looking for ways to enhance my skills and contribute to exciting projects that make a difference.
 
 - 🌱 I'm currently learning **[Tailwind CSS]**
